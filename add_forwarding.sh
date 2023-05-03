@@ -1,5 +1,8 @@
 #!/bin/bash
 
+# Author: 	Abdul Wahab
+# Website: 	Linuxwebhostingsupport.in
+# Purpose: 	Add an email forwarder in iRedMail.
 # Function to validate email address
 validate_email() {
     # Check if email address matches the correct format
